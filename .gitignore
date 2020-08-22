@@ -1,0 +1,5 @@
+# Project exclude paths
+/.gradle/
+/Encryption-Decryption/task/build/
+/Problems (8)/Laptop store/out/
+/Problems (8)/Laptop store/out/production/classes/
